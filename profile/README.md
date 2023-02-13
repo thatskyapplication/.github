@@ -58,6 +58,8 @@ Fight your friend for whatever reason!
 
 A Discord implementation of heart gifting! Gift a heart to someone to show your appreciation towards them!
 
+<img width="355" alt="image" src="https://user-images.githubusercontent.com/33201955/218526054-6e3b8852-baef-4e9c-87b7-77abd52aa921.png#gh-dark-mode-only">
+
 ### Hugs
 
 Does someone need a hug? Feel like hugging someone? Feel free to send a hug to someone's way!
