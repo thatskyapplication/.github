@@ -10,6 +10,17 @@ Caelus is a Discord bot for [Sky: Children of the Light]. Feel free to invite it
 
 ## Features
 
+- [Bonks](#bonks)
+- [Calculators](#calculators)
+	- [Seasonal Candles](#seasonal-candles)
+	- [Winged Light](#winged-light)
+- [Daily Guides](#daily-guides)
+- [Fights](#fights)
+- [Hearts](#hearts)
+- [Hugs](#hugs)
+- [Notifications](#notifications)
+- [Sky Profile](#sky-profile)
+
 ### Bonks
 
 Bonk. Does someone deserve it? Who cares! Just bonk them!
