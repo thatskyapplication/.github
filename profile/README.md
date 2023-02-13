@@ -42,6 +42,11 @@ Optionally, you may choose to include realms in your command. This will tell you
 
 Every day, a compact summary of daily guides are sent out. There exists a big list of daily guides containing intricate images, but experienced players do not need this and may only just require the names.
 
+<img width="517" alt="image" src="https://user-images.githubusercontent.com/33201955/218503033-010d5336-f58c-4f7f-8a74-7257557f463d.png#gh-dark-mode-only">
+
+<img width="516" alt="image" src="https://user-images.githubusercontent.com/33201955/218503107-600591db-1c61-4eb9-810d-0566752b1bd8.png#gh-light-mode-only">
+
+
 ### Fights
 
 Fight your friend for whatever reason!
