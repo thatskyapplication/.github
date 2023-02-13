@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/33201955/215259571-2a7617c5-3012-4d0b-86bf-1839d8d8be0c.png" width=200 align=left>
 
-# Caelus
+# Caelus <!-- omit from toc -->
 
 Caelus is a Discord bot for [Sky: Children of the Light]. Feel free to invite it!
 
@@ -8,12 +8,12 @@ Caelus is a Discord bot for [Sky: Children of the Light]. Feel free to invite it
 
 <br>
 
-## Features
+## Features <!-- omit from toc -->
 
 - [Bonks](#bonks)
 - [Calculators](#calculators)
-	- [Seasonal Candles](#seasonal-candles)
-	- [Winged Light](#winged-light)
+  - [Seasonal Candles](#seasonal-candles)
+  - [Winged Light](#winged-light)
 - [Daily Guides](#daily-guides)
 - [Fights](#fights)
 - [Hearts](#hearts)
@@ -152,7 +152,7 @@ You can write your own summary and customise your own Sky Profile that others ca
 
 </details>
 
-## Supporting Us
+## Supporting Us <!-- omit from toc -->
 
 We know there are amazing people out there who may want to donate just to show their appreciation. Thank you in advance!
 
