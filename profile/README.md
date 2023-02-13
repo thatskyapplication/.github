@@ -12,7 +12,7 @@ Caelus is a Discord bot for [Sky: Children of the Light]. Feel free to invite it
 
 ### Bonks
 
-Bonk. Does someoene deserve it? Who cares! Just bonk them!
+Bonk. Does someone deserve it? Who cares! Just bonk them!
 
 <img width="641" alt="image" src="https://user-images.githubusercontent.com/33201955/218471063-5fa62416-fe6b-4652-9189-67c29b364b5c.png#gh-dark-mode-only">
 
