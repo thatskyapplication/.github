@@ -34,6 +34,10 @@ A thorough calculator for winged light. This will yield the total amount of wing
 
 Optionally, you may choose to include realms in your command. This will tell you how much winged light you should have after gathering all winged light from a specified realm.
 
+<img width="500" src="https://user-images.githubusercontent.com/33201955/218486364-c2b73eff-ef6f-4f1d-93a4-3255b72bbcd1.gif#gh-dark-mode-only">
+
+<img width="500" src="https://user-images.githubusercontent.com/33201955/218487347-2f78428e-3efb-47c9-938e-2b572fb7ec2c.gif#gh-light-mode-only">
+
 ### Daily Guides
 
 Every day, a compact summary of daily guides are sent out. There exists a big list of daily guides containing intricate images, but experienced players do not need this and may only just require the names.
