@@ -86,6 +86,10 @@ One may be notified of the following events shortly before they occur:
 
 You can write your own summary and customise your own Sky Profile that others can see!
 
+<img width=589 alt="sky profile" src="https://user-images.githubusercontent.com/33201955/218538766-dd5589a2-a3ff-439f-9e7f-a8511e6dd6e3.png#gh-dark-mode-only">
+
+<img width=594 alt="sky profile" src="https://user-images.githubusercontent.com/33201955/218538809-f92daa0b-83a1-4c4f-92f3-135d2255f77b.png#gh-light-mode-only">
+
 ## Supporting Us
 
 We know there are amazing people out there who may want to donate just to show their appreciation. Thank you in advance!
