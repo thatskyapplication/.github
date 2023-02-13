@@ -60,6 +60,8 @@ A Discord implementation of heart gifting! Gift a heart to someone to show your 
 
 <img width=355 alt="heart" src="https://user-images.githubusercontent.com/33201955/218526054-6e3b8852-baef-4e9c-87b7-77abd52aa921.png#gh-dark-mode-only">
 
+<img width=647 alt="heart" src="https://user-images.githubusercontent.com/33201955/218534842-d093acfe-0b85-4573-8c57-2e85a56cd684.png#gh-light-mode-only">
+
 ### Hugs
 
 Does someone need a hug? Feel like hugging someone? Feel free to send a hug to someone's way!
