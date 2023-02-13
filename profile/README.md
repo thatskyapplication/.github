@@ -50,6 +50,10 @@ Every day, a compact summary of daily guides are sent out. There exists a big li
 
 Fight your friend for whatever reason!
 
+<img width=500 src="https://user-images.githubusercontent.com/33201955/218508440-28cf1311-b09f-411f-92c7-a4157f621201.gif#gh-dark-mode-only">
+
+<img width=500 src="https://user-images.githubusercontent.com/33201955/218508458-310a0864-345b-427e-a806-f9e8c5425822.gif#gh-light-mode-only">
+
 ### Hearts
 
 A Discord implementation of heart gifting! Gift a heart to someone to show your appreciation towards them!
