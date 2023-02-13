@@ -64,6 +64,10 @@ A Discord implementation of heart gifting! Gift a heart to someone to show your 
 
 Does someone need a hug? Feel like hugging someone? Feel free to send a hug to someone's way!
 
+<img width=500 alt="hug" src="https://user-images.githubusercontent.com/33201955/218532791-dfe8238d-b84f-44cf-9646-b5e3a43e766f.gif#gh-dark-mode-only">
+
+<img width=500 alt="hug" src="https://user-images.githubusercontent.com/33201955/218532815-7a78a8d0-ffe8-410f-9f5a-11acf4448aac.gif#gh-light-mode-only">
+
 ### Notifications
 
 One may be notified of the following events shortly before they occur:
