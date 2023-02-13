@@ -78,6 +78,10 @@ One may be notified of the following events shortly before they occur:
 - Grandma
 - Turtle
 
+<img width=312 alt="notifications" src="https://user-images.githubusercontent.com/33201955/218538043-289bc1b5-9305-458d-ab2d-57227db8a47c.png#gh-dark-mode-only">
+
+<img width=314 alt="notifications" src="https://user-images.githubusercontent.com/33201955/218537992-9023ba10-c710-4234-8237-44ff204a6d08.png#gh-light-mode-only">
+
 ### Sky Profile
 
 You can write your own summary and customise your own Sky Profile that others can see!
