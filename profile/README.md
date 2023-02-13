@@ -8,6 +8,52 @@ Caelus is a Discord bot for [Sky: Children of the Light]. Feel free to invite it
 
 <br>
 
+## Features
+
+### Bonks
+
+Bonk. Does someoene deserve it? Who cares! Just bonk them!
+
+### Calculators
+
+#### Seasonal Candles
+
+A basic calculator for seasonal candles. This also takes into account the Season Pass.
+
+#### Winged Light
+
+A thorough calculator for winged light. This will yield the total amount of winged light one may possess.
+
+Optionally, you may choose to include realms in your command. This will tell you how much winged light you should have after gathering all winged light from a specified realm.
+
+### Daily Guides
+
+Every day, a compact summary of daily guides are sent out. There exists a big list of daily guides containing intricate images, but experienced players do not need this and may only just require the names.
+
+### Fights
+
+Fight your friend for whatever reason!
+
+### Hearts
+
+A Discord implementation of heart gifting! Gift a heart to someone to show your appreciation towards them!
+
+### Hugs
+
+Does someone need a hug? Feel like hugging someone? Feel free to send a hug to someone's way!
+
+### Notifications
+
+One may be notified of the following events shortly before they occur:
+
+- Polluted geyser
+- Grandma
+- Turtle
+
+### Sky Profile
+
+You can write your own summary and customise your own Sky Profile that others can see!
+
 ## Supporting Us
 
 We know there are amazing people out there who may want to donate just to show their appreciation. Thank you in advance!
