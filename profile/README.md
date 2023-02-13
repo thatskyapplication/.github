@@ -24,6 +24,10 @@ Bonk. Does someoene deserve it? Who cares! Just bonk them!
 
 A basic calculator for seasonal candles. This also takes into account the Season Pass.
 
+<img width="562" alt="image" src="https://user-images.githubusercontent.com/33201955/218476663-d5828c49-95b9-4a0d-b696-acdc4cf104c8.png#gh-dark-mode-only">
+
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/33201955/218476850-506a1006-f139-40d5-b142-782d06e7b113.png#gh-light-mode-only">
+
 #### Winged Light
 
 A thorough calculator for winged light. This will yield the total amount of winged light one may possess.
