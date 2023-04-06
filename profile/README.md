@@ -167,7 +167,7 @@ You may support us via any of the following:
 See you in the skies! ☁️
 
 [sky: children of the light]: https://www.thatskygame.com
-[discord invite link]: https://discord.com/api/oauth2/authorize?client_id=982740693070012506&permissions=268569600&scope=applications.commands%20bot
+[discord invite link]: https://thatskyapplication.com/invite
 [github]: https://github.com/sponsors/thatskyapplication
 [ko-fi]: https://ko-fi.com/Jiralite
 [patreon]: https://patreon.com/Jiralite
