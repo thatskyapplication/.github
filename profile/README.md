@@ -8,7 +8,7 @@ Caelus is a Discord bot for [Sky: Children of the Light]. Feel free to invite it
 
 Caelus is ready to help you on your Sky journey.
 
-## Supporting Us <!-- omit from toc -->
+## Supporting Us
 
 We know there are amazing people out there who may want to donate just to show their appreciation. Thank you in advance!
 
