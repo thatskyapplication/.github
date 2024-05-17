@@ -2,7 +2,7 @@
 
 # Caelus
 
-Caelus is a Discord bot for [Sky: Children of the Light]. Feel free to invite it!
+Caelus is a Discord application for [Sky: Children of the Light]. Feel free to invite it!
 
 🔗 [Discord invite link]
 
