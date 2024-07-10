@@ -1,5 +1,3 @@
-<img src="https://github.com/thatskyapplication/.github/assets/33201955/83dfd156-2f52-4967-b95c-b3477296c8a9" width=200 align=left>
-
 # Caelus
 
 Caelus is a Discord application for [Sky: Children of the Light] and is ready to help you on your Sky journey. Feel free to invite it!
