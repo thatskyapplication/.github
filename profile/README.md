@@ -2,11 +2,13 @@
 
 # Caelus
 
-Caelus is a Discord application for [Sky: Children of the Light]. Feel free to invite it!
+Caelus is a Discord application for [Sky: Children of the Light] and is ready to help you on your Sky journey. Feel free to invite it!
 
-🔗 [Discord invite link]
+🔗 [Invite link]
 
-Caelus is ready to help you on your Sky journey.
+## Help
+
+If you need any help, want to report an issue, or just want to chill out, head on over to the [Discord server]!
 
 ## Supporting Us
 
@@ -23,7 +25,8 @@ You may support us via any of the following:
 See you in the skies! ☁️
 
 [sky: children of the light]: https://www.thatskygame.com
-[discord invite link]: https://thatskyapplication.com/invite
+[Invite link]: https://thatskyapplication.com/invite
+[Discord server]: https://thatskyapplication.com/support
 [github]: https://github.com/sponsors/thatskyapplication
 [ko-fi]: https://ko-fi.com/Jiralite
 [patreon]: https://patreon.com/Jiralite
