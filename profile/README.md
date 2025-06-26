@@ -31,11 +31,3 @@ See you in the skies! ☁️
 [github]: https://github.com/sponsors/thatskyapplication
 [ko-fi]: https://ko-fi.com/Jiralite
 [patreon]: https://patreon.com/Jiralite
-
-
-
-
-
-
-
-
