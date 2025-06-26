@@ -1,5 +1,6 @@
 # Caelus
 
+
 Caelus is a Discord application for [Sky: Children of the Light] and is ready to help you on your Sky journey. Feel free to invite it!
 
 🔗 [Invite link]
@@ -16,6 +17,8 @@ You may support us via any of the following:
 
 - [GitHub]
 - [Ko-fi]
+
+
 - [Patreon]
 
 <hr>
@@ -23,8 +26,16 @@ You may support us via any of the following:
 See you in the skies! ☁️
 
 [sky: children of the light]: https://www.thatskygame.com
-[Invite link]: https://thatskyapplication.com/invite
+[Invite link]: https://discord.com/oauth2/authorize?client_id=982740693070012506
 [Discord server]: https://thatskyapplication.com/support
 [github]: https://github.com/sponsors/thatskyapplication
 [ko-fi]: https://ko-fi.com/Jiralite
 [patreon]: https://patreon.com/Jiralite
+
+
+
+
+
+
+
+
