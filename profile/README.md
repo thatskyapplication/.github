@@ -23,7 +23,7 @@ You may support us via any of the following:
 
 See you in the skies! ☁️
 
-[sky: children of the light]: https://www.thatskygame.com
+[sky: children of the light]: https://thatskygame.com
 [Invite link]: https://discord.com/oauth2/authorize?client_id=982740693070012506
 [Discord server]: https://thatskyapplication.com/support
 [github]: https://github.com/sponsors/thatskyapplication
