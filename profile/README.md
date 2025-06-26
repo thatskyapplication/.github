@@ -1,6 +1,5 @@
 # Caelus
 
-
 Caelus is a Discord application for [Sky: Children of the Light] and is ready to help you on your Sky journey. Feel free to invite it!
 
 🔗 [Invite link]
