@@ -17,8 +17,6 @@ You may support us via any of the following:
 
 - [GitHub]
 - [Ko-fi]
-
-
 - [Patreon]
 
 <hr>
