@@ -1,0 +1,15 @@
+name: Bug report
+description: Report an issue!
+labels: ['t:bug']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking time out of your day to help make this project better for all! 🩵
+        If you prefer talking directly with us, head on over to our [support server](https://thatskyapplication.com/support)!
+  - type: textarea
+    attributes:
+      label: Bug report
+      description: Please describe your issue in detail! The more information you provide, the eaiser its remediation will be!
+    validations:
+      required: true
