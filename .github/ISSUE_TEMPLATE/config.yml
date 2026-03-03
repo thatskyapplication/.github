@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Guide
+    about: We have a guide in case you need it!
+    url: https://guide.thatskyapplication.com
   - name: Support server
     about: Prefer to talk with us directly? Join the support server!
     url: https://thatskyapplication.com/support
